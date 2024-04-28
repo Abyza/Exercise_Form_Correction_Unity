@@ -47,6 +47,10 @@ ExportedObj/
 *.opendb
 *.VC.db
 
+# Ignore files larger than 100MB
+*                      # All other file types
+
+
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
