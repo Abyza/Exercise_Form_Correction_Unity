@@ -4,4 +4,8 @@ application zip: https://drive.google.com/drive/folders/1S_955vMunLc92gsfApz6gys
 
 model onnx files: https://drive.google.com/drive/folders/1shOf9Ly8Q-GNOf2SJ-vlFXdsCjib4OPa?usp=sharing
 
+creation of model: https://github.com/Abyza/model_conversion_to_onnx
+
 unity project in branch1
+
+
